@@ -1,0 +1,900 @@
+    1  ssh-keygen -t ed25519 -C "mirzametova.a@mail.ru"
+    2  cat /home/olbench/.ssh/id_ed25519.pub
+    3  pwd
+    4  cd ~
+    5  ls -la
+    6  cd /var/
+    7  ls
+    8  mkdir www/lessons/html
+    9  sudo mkdir www/lessons/html
+   10  sudo mkdir www/lessons/html/
+   11  sudo mkdir www
+   12  cd 
+   13  touch lessons/html/index.html
+   14  sudo mkdir lessons
+   15  cd lessons/
+   16  sudo mkdir html
+   17  cd html/
+   18  touch lessons/html/index.html
+   19  touch index.html
+   20  sudo touch index.html
+   21  ls
+   22  git init
+   23  sudo git init
+   24  sudo chmod 770 .
+   25  git status
+   26  cd /var
+   27  rm -rf www
+   28  sudo rm -rf www
+   29  ll
+   30  ls
+   31  mkdir www
+   32  sudo chmod 770 *
+   33  mkdir www
+   34  sudo mkdir www
+   35  cd www
+   36  sudo chmod -R  770 *
+   37  sudo chmod -R  775 *
+   38  cd ../
+   39  sudo chmod -R  775 /www
+   40  sudo chmod 775 /www
+   41  sudo chmod 775 ./www
+   42  cd www
+   43  mkdir lessons
+   44  sudo chmod 777 ./www
+   45  sudo chmod 777 ./
+   46  mkdir lessons
+   47  mkdir lessons/html
+   48  cd lessons/html/
+   49  git clone git@github.com:Olbench/purpleschool_html_css.git ./
+   50  ls
+   51  cat index.html 
+   52  git status
+   53  git remute
+   54  git remote
+   55  git add index.html 
+   56  git commit -m 'new ubuntu test' 
+   57  git config --global user.email "mirzametova.a@mail.ru"
+   58  git config --global user.name "olbench work"
+   59  git commit -m 'new ubuntu test'
+   60  git push origin master 
+   61  ls
+   62  pwd
+   63  ls -l
+   64  ls -h
+   65  man ls
+   66  cd
+   67  clear
+   68  ls
+   69  ls -l
+   70  cd native app
+   71  cd native-app
+   72  ды
+   73  ls
+   74  ll
+   75  ls
+   76  ll
+   77  ls
+   78  ll
+   79  cd /var/www
+   80  ls
+   81  cd lessons
+   82  ls
+   83  ls -l
+   84  cd native-app
+   85  cd html
+   86  cd native-app
+   87  ls
+   88  cd index.html
+   89  cd native-app
+   90  cd lessons
+   91  cd-
+   92  cd -
+   93  cd native-app
+   94  clear
+   95  dir
+   96  cd html
+   97  dir
+   98  ..
+   99  ls
+  100  cat .\index.html
+  101  dir
+  102  ll
+  103  cd
+  104  ll
+  105  ls
+  106  ll
+  107  cd ww
+  108  cd www
+  109  ll
+  110  dir
+  111  cd /var/www/ ll
+  112  cd ll
+  113  ll
+  114  cd /car/www
+  115  cd var/www
+  116  cd /var/www
+  117  ll
+  118  cd lessons
+  119  ll
+  120  cd html
+  121  gir bruch
+  122  git branch
+  123  git log --oneline -3
+  124  git reset HEAD~3
+  125  git status
+  126  git stash
+  127  git status
+  128  git stash pop
+  129  git add index.html img/
+  130  git stash clear
+  131  git stash
+  132  git status
+  133  git checkout -b lessons
+  134  git stash pop
+  135  add index.html 
+  136  git status
+  137  git add
+  138  git add index.html 
+  139  git add img/image1.jpg:Zone.Identifier
+  140  git status
+  141  git commit -m "Модуль 3 начало верстки"
+  142  git push origin lessons
+  143  git checkout master
+  144  git push --force origin master
+  145  git checkout lessons
+  146  cd www
+  147  cd lessons
+  148  ll
+  149  cd var/www
+  150  cd /var
+  151  cd /www
+  152  ll
+  153  cd /var/www
+  154  ll www
+  155  ll
+  156  cd var/www/lessons/html
+  157  cd var/www/lessons
+  158  cd /var/www/lessons
+  159  cd /var/www/lessons/html
+  160  ll
+  161  ды
+  162  ls
+  163  cd /var
+  164  ls
+  165  cs //
+  166  cd..
+  167  cd ..
+  168  cd..
+  169  cd /var
+  170  cd /www
+  171  cd /var/www
+  172  cd /var/www/lessons/html/
+  173  ll
+  174  ls
+  175  pwd
+  176  ls -l
+  177  man ls
+  178  ls -h
+  179  cd /www
+  180  cd /cd /www
+  181  cd /www
+  182  ls -l
+  183  cd /www/
+  184  cd /
+  185  cd www
+  186  pws
+  187  pwd
+  188  cd ./
+  189  cd /www
+  190  ll
+  191  cd var
+  192  cd ./var
+  193  cd /var
+  194  cd ./var
+  195  cd ../var
+  196  cd /www/
+  197  cd /www
+  198  cd ./www
+  199  cd ./lwssons
+  200  ls
+  201  cd /lessons
+  202  cd ./lessons
+  203  ls
+  204  cd ./lessons
+  205  cd ./html
+  206  l
+  207  ls
+  208  ll
+  209  cd git
+  210  cd ./git
+  211  git
+  212  ll
+  213  git --version
+  214  git branch
+  215  git status
+  216  git log
+  217  ls -l
+  218  cd /var/www
+  219  pwd
+  220  ls -l
+  221  cd ./lessons
+  222  ..
+  223  cd ..
+  224  clear
+  225  cd lessons
+  226  ls -l
+  227  cd ./
+  228  cd /html
+  229  ls - l
+  230  ls -l
+  231  cd ./html
+  232  la -l
+  233  ls -l
+  234  cd native-app
+  235  ls
+  236  cd ./gir
+  237  cd ./git
+  238  cd .git
+  239  ls
+  240  cd branches
+  241  ls
+  242  ll
+  243  clear
+  244  cd //
+  245  cd .
+  246  cd ..
+  247  ll
+  248  ls
+  249  ./var/www/
+  250  ./var
+  251  /var
+  252  ca ..
+  253  cd..
+  254  cd ..
+  255  cd ./var
+  256  git status
+  257  ll
+  258  ./var
+  259  cd ./var
+  260  cd ./www/var
+  261  clean
+  262  clear
+  263  git branch
+  264  ls
+  265  ll
+  266  ./
+  267  ls
+  268  ll
+  269  ./var
+  270  git
+  271  version
+  272  git --version
+  273  git switch
+  274  ./git
+  275  ../var
+  276  ../www
+  277  git status
+  278  git
+  279  git -w
+  280  gir -v
+  281  git -v
+  282  cltar
+  283  clear
+  284  git -v
+  285  /
+  286  ls
+  287  var
+  288  clear
+  289  lm
+  290  cd /
+  291  ls
+  292  cd /home
+  293  ls
+  294  cd /olbench
+  295  //
+  296  //home
+  297  clean
+  298  clear
+  299  ls
+  300  ..
+  301  cd ..
+  302  ls
+  303  ls
+  304  /
+  305  \
+  306  cd /
+  307  ls
+  308  cd ~
+  309  ls
+  310  sudo -i
+  311  ssh - keygen
+  312  ssh-keygen
+  313  cat ls .ssh/
+  314  rm .ssh/id_rsa
+  315  rm .ssh/id_rsa.pub
+  316  cat ls .ssh/
+  317  ls
+  318  ls .ssh/
+  319  cat .ssh/id_ed25519.pub
+  320  cat .ssh/id_ed25519
+  321  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com
+  322  ssh-keygen --help
+  323  exit
+  324  ssh-keygen
+  325  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com
+  326  ls 
+  327  cat ~/.ssh/id_rsa.pub
+  328  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com
+  329  scp -i ~/.ssh/id_ed25519 ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com:/opt/180725-wdm/Albina//test.txt .
+  330  cat text.txt
+  331  cat test.txt
+  332  scp -i ~/.ssh/id_ed25519 ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com:/opt/180725-wdm/Albina//test.txt .
+  333  cat test.txt
+  334  scp -i ~/.ssh/id_ed25519 ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com:/opt/180725-wdm/IrinaT//test.txt .
+  335  cat test.txt
+  336  scp -i ~/.ssh/id_ed25519 ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com:/opt/180725-wdm/Nychyporenko//test.txt .
+  337  cat test.txt
+  338  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-3-122-254-39.eu-central-1.compute.amazonaws.com
+  339  cat .ssh/id_ed25519.pub |clip
+  340  cat .ssh/id_ed25519.pub | clip
+  341  cat .ssh/id_ed25519.pub
+  342  git
+  343  clear
+  344  git config -- global user.name "Albina"
+  345  mkdir git_intro
+  346  cd git_intro
+  347  git init
+  348  git config -- global user.name "Albina"
+  349  git config --global user.name "Albina"
+  350  git config --global user.email "olbena.m@gmail.com"
+  351  ls
+  352  ls -la
+  353  echo "# git_intro" >> README.md
+  354  git status
+  355  git add README.md
+  356  git status
+  357  git commit -m "first commit"
+  358  git branch -M main
+  359  git remote add origin git@github.com:Olbench/git_intro.git
+  360  git push -u origin main
+  361  echo "##################" >> README.md
+  362  git status
+  363  git add .
+  364  git status
+  365  git commit -m "Second commit"
+  366  git push
+  367  cat README.md
+  368  git status
+  369  "C:\Users\albin\Videos\Captures\frontend\1 september\cat21.png"
+  370  git add .
+  371  git status
+  372  "C:\Users\albin\Videos\Captures\frontend\1 september\cat21.png"
+  373  ls
+  374  git add .
+  375  git commit
+  376  git push
+  377  clear
+  378  cd /
+  379  cd
+  380  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  381  ls
+  382  cd git_intro/
+  383  git branch
+  384  git branch gitignore
+  385  git branch
+  386  git checkout
+  387  git checkout gitignore 
+  388  git branch
+  389  touch .gitignore
+  390  nano .gitignore 
+  391  cat .gitignore
+  392  git add .
+  393  git status 
+  394  git commit
+  395  git push
+  396  git push --set-upstream origin gitignore
+  397  git status
+  398  nano .gitignore 
+  399  git status
+  400  git add .
+  401  git status
+  402  git stash
+  403  git status
+  404  nano .gitignore 
+  405  git stash
+  406  git stash show
+  407  git stash pop
+  408  nano .gitignore 
+  409  git branch main
+  410  git checkout main
+  411  git add .gitignore 
+  412  git commit -m "Another commit" 
+  413  git push
+  414  git checkout main
+  415  git merge gitignore
+  416  git push
+  417  clear
+  418  /
+  419  ./
+  420  ../
+  421  clear
+  422  git checkout -b mybranch
+  423  touch newfile
+  424  date > newfile
+  425  cat newfile 
+  426  git add newfile
+  427  git status us
+  428  git status
+  429  git commit -m 'Another commit'
+  430  git push origin
+  431  git push --set-upstream origin mybranch
+  432  nano newfile
+  433  git push origin mybranch 
+  434  git status
+  435  git push newfile
+  436  git push origin 
+  437  git add newfile
+  438  git push origin mybranch 
+  439  git checkout main
+  440  git commit 
+  441  git commit -m 'Another commit2'
+  442  git push origin
+  443  git checkout main
+  444  git merge mybranch
+  445  git push
+  446  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  447  ls
+  448  cd git_intro/
+  449  git log  --decorate --oneline --graph
+  450  git log --all  --decorate --oneline --graph
+  451  git checkout main
+  452  git branch my_mearge 
+  453  git checkout my_mearge 
+  454  touch mearge.txt
+  455  nano mearge.txt 
+  456  git status
+  457  git add mearge.txt 
+  458  git status
+  459  git commit -m "merge branch 1 commit"
+  460  nano mearge.txt 
+  461  git status
+  462  git add mearge.txt 
+  463  git commit -m "merge branch 2 commit"
+  464  git log --all  --decorate --oneline --graph
+  465  nano mearge.txt 
+  466  git status
+  467  git add mearge.txt 
+  468  git commit -m "merge branch 3 commit"
+  469  git add
+  470  git status
+  471  ls
+  472  git checout main
+  473  git checkout main
+  474  ls
+  475  git merge my_mearge 
+  476  ls
+  477  git checkout my_mearge 
+  478  nano RE
+  479  ls
+  480  ls README.md 
+  481  nano README.md 
+  482  git status
+  483  git add
+  484  git add README.md 
+  485  git commit
+  486  git commit README.md 
+  487  git status
+  488  git merge my_mearge 
+  489  git checkout my_merge
+  490  git checkout my_mearge
+  491  nano README.md 
+  492  git status
+  493  git add README.md 
+  494  git status
+  495  git commit README.md 
+  496  git log  --all --decorate --oneline --graph
+  497  git checkout main
+  498  git merge my_merge
+  499  git merge my_mearge
+  500  git push
+  501  git checkout my_mearge 
+  502  git merge main
+  503  touch newfile.txt
+  504  nano newfile.txt
+  505  git status 
+  506  git add newfile.txt 
+  507  git status 
+  508  git commit -m "New file start"
+  509  nano newfile.txt
+  510  git commit --amend -m "New file end"
+  511  touch test.txt
+  512  git status 
+  513  git reset --hard
+  514  git status 
+  515  ls
+  516  nano newfile.txt
+  517  git log  --all --decorate --oneline --graph
+  518  git log
+  519  git status
+  520  git add .
+  521  git status
+  522  nano test.txt
+  523  git status
+  524  git add .
+  525  git status
+  526  git commit -m "Revert 1"
+  527  git revert f51685a
+  528  nano test.TXT
+  529  nano test.txt
+  530  git checkout my_mearge 
+  531  git branch -m <my_merge>
+  532  git branch -m my_merge
+  533  git push origin --delete
+  534  git push origin --delete my_mearge
+  535  git add
+  536  git status
+  537  git push --set-upstream origin my_merge
+  538  git push origin --delete my_merge
+  539  ls
+  540  mv mearge.txt merge.txt
+  541  git status
+  542  cat mearge
+  543  cat merge
+  544  cat mearge.txt
+  545  cat merge.txt
+  546  git add .
+  547  git commit 
+  548  git status
+  549  git push
+  550  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  551  ls
+  552  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  553  mkdir -p bashscripts
+  554  git init
+  555  git clone https://github.com/koskh/bashscripts.git
+  556  cd bashscripts
+  557  git init
+  558  git clone https://github.com/koskh/bashscripts.git
+  559  ls
+  560  git status
+  561  git checkout -p DBBackup_Change
+  562  git checkout -b DBBackup_Change
+  563  nano DBBackup.sh 
+  564  git status
+  565  git add DBBackup.sh 
+  566  git commit -m "My changed backup"
+  567  git push origin DBbackup_changed_Albina
+  568  git push
+  569  git push --set-upstream origin DBBackup_Change
+  570  cd
+  571  rm -r bashscripts/
+  572  rm -rf bashscripts/
+  573  ls
+  574  mkdir bashscripts
+  575  cd bashscripts/
+  576  git init
+  577  git clone https://github.com/Olbench/bashscripts.git
+  578  ls
+  579  cd bashscripts/
+  580  ls
+  581  nano DBBackup.sh 
+  582  git status
+  583  git commit -m "My changed backup"
+  584  git add
+  585  git add DBBackup.sh 
+  586  git commit -m "My changed backup"
+  587  git push origin DBbackup_changed_Albina
+  588  git checkout -b ./DBBackup.sh
+  589  git checkout -b DBBackup.sh
+  590  nano DBBackup.sh 
+  591  git add DBBackup.sh 
+  592  git commit -m "My changed backup"
+  593  git push origin DBbackup_changed_Albina
+  594  git push
+  595  git push --set-upstream origin DBBackup.sh
+  596  nano DBBackup.sh 
+  597  git status
+  598  git commit -m "Anither changes in my backup file"
+  599  git push origin DBbackup_changed_Albina_
+  600  git push origin DBbackup_changed_Albina
+  601  git st
+  602  git status
+  603  git add DBBackup.sh 
+  604  git commit -m "Anither changes in my backup file"
+  605  git push
+  606  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  607  git config --global user.name "Albina"
+  608  git config --global user.email "olbena.m@gmail.com"
+  609  git config --global user.email olbena.m@gmail.com
+  610  git config --list
+  611  git config --global user.name "Olbench"
+  612  git config --list
+  613  git config --global user.name Olbench
+  614  git config --list
+  615  clear
+  616  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  617  LS
+  618  ls
+  619  cd /otp/
+  620  clear
+  621  ssh -i ~/.ssh/id_ed25519  ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  622  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  623  ssh -T GITHUB-USERNAME@github.com olbena.m@gmail.com
+  624  ssh -T olbena.m@gmail.com
+  625  ls -al ~/.ssh
+  626  cat ~/.ssh/id_ed25519.pub
+  627  ssh -T git@github.com
+  628  ssh -T olbena.m@gmail.com
+  629  ssh -T git@github.com
+  630  git remote -v
+  631  git remote set-url origin git@github.com:Olbench/Super_ToDo.git
+  632  git remote -v
+  633  git push -u origin main
+  634  git remote add origin git@github.com:Olbench/Super_ToDo.git
+  635  git remote -v
+  636  git push -u origin main
+  637  ls
+  638  /
+  639  cd
+  640  ls
+  641  eval "$(ssh-agent -s)"
+  642  ssh-add ~/.ssh/id_ed25519
+  643  git init
+  644  git status
+  645  git add
+  646  git add .
+  647  git status
+  648  git rm --cached .DS_Store icons/.DS_Store
+  649  git status
+  650  git rm --cached .DS_Store icons
+  651  git status
+  652  git rm --cached icons/
+  653  git rm --cached icons/edit.svg icons/delete.svg
+  654  git status
+  655  git add -i
+  656  git status
+  657  git commit
+  658  git commit -m "Layout, icons, styles"
+  659  git remote add origin https://github.com/Olbench/Super_ToDo.git
+  660  git remote 
+  661  git brunch
+  662  git branch
+  663  git push -u origin master
+  664  git checkout -b issue-1
+  665  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  666  clear
+  667  mkdir git-merge-test
+  668  cd git-merge-test
+  669  git init .
+  670  echo "this is some content to mess with" > merge.txt
+  671  git add merge.txt
+  672  git commit -am"we are commiting the inital content"
+  673  git checkout -b new_branch_to_merge_later
+  674  echo "totally different content to merge later" > merge.txt
+  675  cat
+  676  git commit -am"edited the content of merge.txt to cause a conflict"
+  677  git checkout master
+  678  echo "content to append" >> merge.txt
+  679  git commit -am "appended content to merge.txt"
+  680  git merge new_branch_to_merge_later
+  681  nano merge.txt 
+  682  pwd
+  683  clear
+  684  /
+  685  cd
+  686  ls
+  687  cd /var
+  688  ls
+  689  cd www
+  690  ls
+  691  mkdir todolist
+  692  cd lessons/
+  693  ls
+  694  cd ./
+  695  cd ../
+  696  cp -R /mnt/C/Users/albin/Videos/Captures/frontend/SUPER-TODO-LIST-ACTUAL todolist
+  697  cp -R /mnt/C/Users/albin/Videos/Captures/frontend/todolist todolist
+  698  cp -R /mnt/c/users/albin/videos/captures/frontend/todolist todolist
+  699  ls todolist
+  700  cd todolist/
+  701  ls
+  702  cd ..
+  703  rm -R todolist
+  704  cp -R /mnt/c/users/albin/videos/captures/frontend/todolist .
+  705  ls
+  706  cd todolist/
+  707  ls
+  708  nano ~/.bashrc
+  709  source ~/.bashrc
+  710  cd ..
+  711  cd lessons/
+  712  ls
+  713  cd html
+  714  git branch
+  715  cd ../..
+  716  rm -r lessons/
+  717  rm -R lessons/
+  718  sudo rm -R lessons/
+  719  ls
+  720  cd todolist/
+  721  gir log --oneline -5
+  722  git log --oneline -5
+  723  git log
+  724  ../
+  725  cd ../
+  726  sudo rm -R todolist/
+  727  git clone https://github.com/IrinaTassinari/SUPER_TO-DO.git todolist
+  728  ls todolist/
+  729  code .
+  730  cd todolist/
+  731  code .
+  732  git log --oneline
+  733  git remote
+  734  git remote -p
+  735  git remote -v
+  736  git remote delete origin
+  737  git remote remove origin
+  738  git remote -v
+  739  git remote add git@github.com:Olbench/Super_ToDo.git
+  740  git remote add origin git@github.com:Olbench/Super_ToDo.git
+  741  git branch -m main master
+  742  git push -f master
+  743  git push -f origin master
+  744  ls
+  745  git log --oneline
+  746  git reset HEAD~2
+  747  git status
+  748  git reset HEAD
+  749  git reset HEAD~
+  750  git status
+  751  git config --list
+  752  git commit --amend --author="Olbench olbena.m@gmail.com"
+  753  git commit --amend --author="Olbench <olbena.m@gmail.com>"
+  754  git log
+  755  git commit --amend -m "layout, icons, styles"
+  756  git log
+  757  git status
+  758  git add -i
+  759  git status
+  760  git commit -m "updated view"
+  761  git push -f origin master
+  762  git status
+  763  git stash
+  764  git status
+  765  git checkout -b issue-1
+  766  git push origin issue-1
+  767  git status
+  768  git add -i
+  769  git add
+  770  git add .
+  771  git status
+  772  git add -i
+  773  git status
+  774  ls
+  775  cd ..
+  776  ls
+  777  cd ..
+  778  ls
+  779  cd/www
+  780  cd /www
+  781  cd www
+  782  ls
+  783  cd todolist/
+  784  git status
+  785  cd ..
+  786  cd mnt
+  787  cd /mnt
+  788  ls
+  789  cd /c
+  790  cd c
+  791  users
+  792  cd users
+  793  olbench
+  794  cd olbench
+  795  ls
+  796  albin
+  797  cd albin
+  798  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  799  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  800  npm run sass
+  801  npm install sass --save-dev
+  802  npm init -y
+  803  npm run sass-compile
+  804  npm run sass
+  805  npm run sass
+  806  cd /var/www
+  807  /mnt/c/users/albin/videos/captures/frontend/
+  808  /mnt/c/users/albin/
+  809  ls
+  810  cd todolist/
+  811  git status
+  812  git add
+  813  git add .
+  814  git status
+  815  git commit
+  816  git push
+  817  git sta
+  818  git status
+  819  cd ../
+  820  ls
+  821  cd ../
+  822  ls
+  823  cd /www/
+  824  cd www
+  825  cd todolist/
+  826  git status
+  827  git commit
+  828  git add .
+  829  git commit
+  830  git push
+  831  cd /
+  832  ssh -i "KEY_NAME.pem" ec2-user@ec2-63-179-164-22.eu-central-1.compute.amazonaws.com
+  833  git clone https://github.com/Olbench/HW12.git
+  834  ДЫ
+  835  ls
+  836  cd HW12
+  837  git init
+  838  cd
+  839  ls
+  840  cd HW12
+  841  echo "# HW12" > README.md
+  842  LS
+  843  ls
+  844  echo -e "node_modules/\n*.log\n.DS_Store" > .gitignore
+  845  ls
+  846  echo -e "node_modules/\n*.log\n.DS_Store" > .gitignore
+  847  ls
+  848  nano README.md 
+  849  echo > .gitignore
+  850  ls -l
+  851  ls -a
+  852  cd .git/
+  853  /..
+  854  ./
+  855  cd ..
+  856  cd /.gitignore
+  857  cd .gitignore/
+  858  cd /.gitignore/
+  859  cd ./gitignore
+  860  ls -a
+  861  cd .gitignore/
+  862  git add .
+  863  git status
+  864  git commit -m "first commit"
+  865  git remote add origin https://github.com/Olbench/HW12.git
+  866  git branch -M main
+  867  git push -u origin main
+  868  git status
+  869  git remote add origin https://github.com/Olbench/HW12.git
+  870  git branch -M main
+  871  git push -u origin main
+  872  git remote add origin git@github.com:Olbench/HW12.git
+  873  git remote remove -v
+  874  git remote add origin git@github.com:Olbench/HW12.git
+  875  git branch -M main
+  876  git push -u origin main
+  877  ls
+  878  cd ..
+  879  ls
+  880  cd /var/www/
+  881  ls
+  882  mkdir HW12
+  883  cd HW12
+  884  git remote -v
+  885  git clone git@github.com:Olbench/HW12.git .
+  886  ll
+  887  git checkout -b feature
+  888  touch README.md
+  889  nano README.md 
+  890  git add README.md
+  891  git stastus
+  892  git status
+  893  git commit
+  894  git push origin feature
+  895  git ststus
+  896  git status
+  897  git commit --amend
+  898  git checkout main
+  899  git merge feature
+  900  history > history.txt
